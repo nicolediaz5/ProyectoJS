@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naruto",
+        "precio": 550,
+        "editorial": "Panini",
+        "stock": "disponible",
+        "png": "https://cdn.normacomics.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/n/a/naruto_cast__1.jpg"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Dragon Ball Z",
+        "precio": 770,
+        "editorial": "Ivrea",
+        "stock": "disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/91V4lFuTzBL.jpg"   
+    },
+    {
+        "id": 3,
+        "nombre": "Given",
+        "precio": 360,
+        "editorial": "Panini",
+        "stock": "NO disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/81ZyyhTCsRL.jpg" 
+    },
+    {
+        "id": 4,
+        "nombre": "Ataque a los Titanes",
+        "precio": 720,
+        "editorial": "OvniPress",
+        "stock": "NO disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/81fBFsAAlgL.jpg" 
+    },
+    {
+        "id": 5,
+        "nombre": "Sakura Card Captor",
+        "precio": 455,
+        "editorial": "OvniPress",
+        "stock": "disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/919mc8QlTYL.jpg"    
+    },
+    {
+        "id": 6,
+        "nombre": "NaNa",
+        "precio": 650,
+        "editorial": "Panini",
+        "stock": "NO disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/91IdgmPwo2L.jpg"    
+    },
+    {
+        "id": 7,
+        "nombre": "Chainsaw Man",
+        "precio": 550,
+        "editorial": "Ivrea",
+        "stock": "disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/81zijlool9L.jpg"    
+    },
+    {
+        "id": 8,
+        "nombre": "Toky Ghoul",
+        "precio": 495,
+        "editorial": "Ivrea",
+        "stock": "disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/71Kbwi4dAeL.jpg"    
+    },
+    {
+        "id": 9,
+        "nombre": "Battle Royale",
+        "precio": 850,
+        "editorial": "OvniPress",
+        "stock": "NO disponible",
+        "png": "https://images-na.ssl-images-amazon.com/images/I/71WNUCUdlLL.jpg"    
+    }
+]

@@ -1,0 +1,42 @@
+/*menu barra*/
+.nav-link {
+    color: rgb(255, 255, 255) !important; }
+  
+  nav.navbar {
+    background: #ce6502a4 !important; }
+  
+  .navbar-link {
+    color: dimgray !important; }
+  
+  .nav-link:hover {
+    color: #1b0096 !important; }
+  
+  main {
+    background-color: #f0efef;
+    margin-top: 30px; }
+  
+  .bg-estilo {
+    background-size: auto;
+    padding-bottom: 20px;
+    padding-top: 20px; }
+  
+/*titulo de la  pagina*/
+.tituloSeccion {
+    color: #ce6402;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    background-color: #ffffff;
+    font-size: xx-large;
+    margin-top: 150px;
+}
+.card{
+    width: 230px;
+    margin-left: 60px;
+}
+
+.card img{
+    width: 230px;
+    height: 330px;
+}
