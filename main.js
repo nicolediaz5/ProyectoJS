@@ -136,3 +136,6 @@ delete carrito[e.target.dataset.id]
 
 e.stopPropagation();
   };
+
+
+ 

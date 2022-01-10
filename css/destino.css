@@ -1,3 +1,16 @@
+main {
+  
+    background-image: url(../img/Fondo3.png);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+}
+th {
+  color: white;
+}
+td{
+  color: white;
+}
 /*menu barra*/
 .nav-link {
     color: rgb(255, 255, 255) !important; }
@@ -19,18 +32,8 @@
     background-size: auto;
     padding-bottom: 20px;
     padding-top: 20px; }
-  
-/*titulo de la  pagina*/
-.tituloSeccion {
-    color: #ce6402;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
-    font-style: bold;
-    background-color: #ffffff;
-    font-size: xx-large;
-    margin-top: 150px;
-}
+
+  /*Body Mangas*/
 .card{
     width: 230px;
     margin-left: 60px;
@@ -39,4 +42,47 @@
 .card img{
     width: 230px;
     height: 330px;
+}
+
+/*Botones*/
+
+#vaciar-carrito{
+  background-color: #ffffff !important;
+  border-color: black!important;
+  border-style: solid;
+  font-family: 'Roboto', sans-serif !important;
+  font-style: bold !important;
+  color: #ce6402!important;
+
+}
+
+.btn-sumar{
+  background-color: #1b0096 !important;
+  border-color: #1b0096 !important;
+}
+
+.btncomprar-manga{
+      color: white !important;
+      width: 180px !important;
+    margin: 5px; 
+    margin-bottom: 15px;
+    margin-left: 3px !important;
+    background-color: #ff8800 !important;
+    border-radius: 0.5rem !important;
+    border-color: #ff8800 !important;
+}
+/*Icono Carrito*/
+.bi-cart4{
+  margin-right: 10px;
+}
+
+p{
+  text-align: center;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+h5{
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  font-style: bold;
+  color: #1b2afa;
 }
