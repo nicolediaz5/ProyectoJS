@@ -102,6 +102,11 @@ h5{
   font-family: 'Hind Madura', sans-serif;
   letter-spacing: 1px;
 }
-.bg-success{
-  background-color: #ff8800 !important;
+.imagenLogoFooter {
+  height: 150px;
+  width: 150px;
+}
+
+path{
+  color: #834804;
 }
