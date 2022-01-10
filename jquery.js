@@ -13,7 +13,7 @@ $("#tituloPag").css ({ "color": "#ce6402",
                            "margin-top": "150px"
                            });
 
-$("#subtituloPag").css ({ "color": "#1b2afa",
+$("#subtituloPag").css ({ "color": "#198754",
                            "text-align": "center",
                            "font-family": "'Roboto', sans-serif",
                            "font-style": "bold",

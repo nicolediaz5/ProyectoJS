@@ -22,7 +22,7 @@ td{
     color: dimgray !important; }
   
   .nav-link:hover {
-    color: #1b0096 !important; }
+    color: #198754 !important; }
   
   main {
     background-color: #f0efef;
@@ -47,18 +47,18 @@ td{
 /*Botones*/
 
 #vaciar-carrito{
-  background-color: #ffffff !important;
-  border-color: black!important;
+  background-color: #198754 !important;
+  border-color: #198754!important;
   border-style: solid;
   font-family: 'Roboto', sans-serif !important;
   font-style: bold !important;
-  color: #ce6402!important;
+  color: #ff8800 !important;
 
 }
 
 .btn-sumar{
-  background-color: #1b0096 !important;
-  border-color: #1b0096 !important;
+  background-color: #198754 !important;
+  border-color: #198754 !important;
 }
 
 .btncomprar-manga{
@@ -76,6 +76,7 @@ td{
   margin-right: 10px;
 }
 
+
 p{
   text-align: center;
   font-family: 'Be Vietnam Pro', sans-serif;
@@ -84,5 +85,23 @@ h5{
   text-align: center;
   font-family: 'Staatliches', cursive;
   font-style: bold;
-  color: #1b2afa;
+  color: #198754;
+}
+
+
+/*Footer*/
+
+.textoFooter {
+  color: #ff8800;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 2px;
+}
+
+.subtextoFooter {
+  color: white;
+  font-family: 'Hind Madura', sans-serif;
+  letter-spacing: 1px;
+}
+.bg-success{
+  background-color: #ff8800 !important;
 }
